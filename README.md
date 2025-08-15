@@ -17,7 +17,9 @@ To explore these questions, I built a data-driven project combining:
 
 I used all three together because:
 ✅Python handled the raw, unstructured data that couldn’t go straight into visualization
+
 ✅SQL allowed me to manipulate structured data efficiently and scale insights with simple logic
+
 ✅Tableau gave me the flexibility to present everything in an intuitive, story-first format
 
 Final outcome:
